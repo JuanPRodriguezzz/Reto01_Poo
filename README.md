@@ -173,5 +173,5 @@ if __name__=="__main__":
     print("\n\nLa mayor suma entre dos números consecutivos es:", mayor_suma_consecutiva(),"\n\n")
 ```
 
-
+PD: Me compliqué mucho al inicio e intenté hacer mas como si fuera un programa que una funcion sin más, entiendo y asumo que mi nota sea 0 por entregarla 2 dias después de la fecha establecida xd, gracias igual :p
 
