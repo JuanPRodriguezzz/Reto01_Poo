@@ -1,7 +1,7 @@
 # Reto01_Poo
 Crear una función que realice operaciones básicas (suma, resta, multiplicación, división) entre dos números, según la elección del usuario, la forma de entrada de la función será los dos operandos y el caracter usado para la operación. entrada: (1,2,"+"), salida (3).
 
-'''
+```
 from subprocess import call
 
 def limpiar_pantalla(): #Función para limpiar la consola
@@ -42,6 +42,6 @@ while True:
     operaciones_basicas(num1,num2,operador)
     continuar()
     continue
-    '''
+    ```
 
     
